@@ -22,7 +22,6 @@ class Excel:
     def writer_multic_raws(self, raw_list):
         for i_raw in raw_list:
             self.write_one_raw(i_raw)
-            # self.content_raw_position += 1
 
     def close(self):
         self.workbook.close()
