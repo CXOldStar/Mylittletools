@@ -1,2 +1,2 @@
 # Mylittletools
-There has excel programmer which can be used to generate excel file.
+There has excel program which is based on xlsxwriter and is used to generate excel file.
